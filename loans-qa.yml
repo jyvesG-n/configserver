@@ -6,7 +6,7 @@ loans:
   contactDetails:
     name: "John Load"
     profession: "QA Lead"
-    email: "johnloadofficial@gmail.com"
+    email: "{cipher}9bbb7744cf54645cce8f8761521f6883ba99188c4938c6fade37f90c349b7e3ecbdab01f50b5340ba90dda9255cca5fd"
   onCallSupport:
     - 04 04 04 05 05
     - 07 05 25 07 07
