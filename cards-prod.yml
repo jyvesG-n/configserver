@@ -6,7 +6,7 @@ cards:
   contactDetails:
     name: "John Car"
     profession: "Architect Lead"
-    email: "johncarofficial@gmail.com"
+    email: "{cipher}c742fd76f66e3472f7cf70d082564150f30e8f3b5a2b5804a3f7001f5a9561df238c7942547115cd0f1b823b21d7086d"
   onCallSupport:
     - 03 03 03 03 03
     - 04 04 24 04 04
