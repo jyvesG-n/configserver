@@ -6,7 +6,7 @@ accounts:
   contactDetails:
     name: "John Doe"
     profession: "Architect Lead"
-    email: "johndoeofficial@gmail.com"
+    email: "{cipher}f2b38348e017a101b04c5eee68bb6ab2a5d8cc365f345d294497f310891559011e95361794c0fcf79debf5293c496554"
   onCallSupport:
     - 03 03 03 03 03
     - 04 04 24 04 04
