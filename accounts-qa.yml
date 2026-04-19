@@ -1,0 +1,12 @@
+build:
+  version: "2.0"
+
+accounts:
+  message : "Welcome to my MicroService Account related QA APIs"
+  contactDetails:
+    name: "John Smith"
+    profession: "QA Lead"
+    email: "johnsmithofficial@gmail.com"
+  onCallSupport:
+    - 01 01 01 01 01
+    - 02 02 20 02 02

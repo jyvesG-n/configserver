@@ -1,0 +1,12 @@
+build:
+  version: "2.0"
+
+loans:
+  message : "Welcome to my MicroService Cards related QA APIs"
+  contactDetails:
+    name: "John Load"
+    profession: "QA Lead"
+    email: "johnloadofficial@gmail.com"
+  onCallSupport:
+    - 04 04 04 05 05
+    - 07 05 25 07 07

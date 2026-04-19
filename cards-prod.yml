@@ -1,0 +1,12 @@
+build:
+  version: "1.1"
+
+cards:
+  message : "Welcome to my MicroService Cards related Prod APIs"
+  contactDetails:
+    name: "John Car"
+    profession: "Architect Lead"
+    email: "johncarofficial@gmail.com"
+  onCallSupport:
+    - 03 03 03 03 03
+    - 04 04 24 04 04

@@ -1,0 +1,12 @@
+build:
+  version: "1.0"
+
+accounts:
+  message : "Welcome to my MicroService Cards Default API"
+  contactDetails:
+    name: "Jean Yves"
+    profession: "DevOps Engineer"
+    email: "godejeanofficiel@gmail.com"
+  onCallSupport:
+    - 07 05 17 20 78
+    - 01 72 12 08 09

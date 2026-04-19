@@ -1,0 +1,12 @@
+build:
+  version: "2.0"
+
+cards:
+  message : "Welcome to my MicroService Cards related QA APIs"
+  contactDetails:
+    name: "John Cout"
+    profession: "QA Lead"
+    email: "johncoutofficial@gmail.com"
+  onCallSupport:
+    - 09 09 09 09 09
+    - 07 07 27 07 07

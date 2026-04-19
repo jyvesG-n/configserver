@@ -1,0 +1,12 @@
+build:
+  version: "1.0"
+
+accounts:
+  message : "Welcome to my MicroService Account related Prod APIs"
+  contactDetails:
+    name: "John Doe"
+    profession: "Architect Lead"
+    email: "johndoeofficial@gmail.com"
+  onCallSupport:
+    - 03 03 03 03 03
+    - 04 04 24 04 04
