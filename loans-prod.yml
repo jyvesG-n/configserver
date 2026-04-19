@@ -6,7 +6,7 @@ loans:
   contactDetails:
     name: "John Larry"
     profession: "Architect Lead"
-    email: "johnlarryofficial@gmail.com"
+    email: "{cipher}fac58a83307f5fba2234aa4f9c0bf30e24b75d1c68dd57549c8343c5d05dd07b8f26e9d6483ca7cee3d1b4bdc0dcbb45"
   onCallSupport:
     - 07 07 03 03 03
     - 07 07 24 04 04
