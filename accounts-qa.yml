@@ -6,7 +6,7 @@ accounts:
   contactDetails:
     name: "John Smith"
     profession: "QA Lead"
-    email: "johnsmithofficial@gmail.com"
+    email: "{cipher}737eac75f6f4c04e975d6cea828f059c820d61ccec898982b36adbce774757b9957a34b694140067df0132969e44251f"
   onCallSupport:
     - 01 01 01 01 01
     - 02 02 20 02 02
