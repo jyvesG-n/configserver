@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message : "Welcome to my MicroService Cards API"
+  message : "Welcome to my MicroService Cards Default API"
   contactDetails:
     name: "Jean Yves"
     profession: "DevOps Engineer"
