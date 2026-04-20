@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message : "Welcome to my MicroService Account related Prod APIs"
+  message : "Welcome to my MicroService Account related Production APIs"
   contactDetails:
     name: "John Doe"
     profession: "Architect Lead"
