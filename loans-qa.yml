@@ -2,7 +2,7 @@ build:
   version: "2.0"
 
 loans:
-  message : "Welcome to my MicroService Cards related QA APIs"
+  message : "Welcome to my MicroService Loans related QA APIs"
   contactDetails:
     name: "John Load"
     profession: "QA Lead"
