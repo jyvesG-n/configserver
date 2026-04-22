@@ -1,7 +1,7 @@
 build:
   version: "1.0"
 
-accounts:
+cards:
   message : "Welcome to my MicroService Cards Default API"
   contactDetails:
     name: "Jean Yves"
